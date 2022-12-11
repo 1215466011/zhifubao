@@ -15,6 +15,7 @@ import java.io.IOException;
 
 @Controller
 public class AllPayController {
+
     @Resource
 //    private AlipayConfig alipayConfig;
     private AlipayClient alipayClient;
